@@ -210,6 +210,12 @@ run_etl.bat
 
 Ensure that MySQL Server is running and the required database and tables have been configured.
 
+
+## Project Architecture
+
+![Automated Sales ETL Pipeline Architecture](docs/architecture.png)
+
+
 ## Pipeline Execution Results
 
 Results from a successful pipeline execution:
@@ -253,3 +259,4 @@ The scheduled task returned exit code `0x0`, indicating successful execution.
 Machine Learning Engineer | AI & Data Scientist
 
 Interested in Data Engineering, Python, SQL, Machine Learning, and Analytics.
+
